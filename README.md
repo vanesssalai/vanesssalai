@@ -1,5 +1,5 @@
 # Vanesssa ⸜(｡˃ ᵕ ˂ )⸝♡
 
-[![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanesssalai)](https://github.com/vanesssalai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanesssalai&layout=donut&theme=dracula)](https://github.com/vanesssalai/github-readme-stats)
 
 ###
